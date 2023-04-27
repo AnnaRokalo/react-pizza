@@ -18,7 +18,7 @@ export default function Header() {
           <SubTitle>самая вкусная пицца во вселенной</SubTitle>
         </TitleWrapper>
       </Wrapper>
-      <button>590p | 3</button>
+      <button type="button">590p | 3</button>
     </Heading>
   );
 }

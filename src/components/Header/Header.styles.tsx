@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const Heading = styled.header`
   padding: 50px 40px;
-  margin:  0 12px;
-  border-bottom: 1px solid #F6F6F6;
+  margin: 0 12px;
+  border-bottom: 1px solid #f6f6f6;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,9 +21,7 @@ export const Logo = styled.img`
   height: 38px;
 `;
 
-export const TitleWrapper = styled.div`
- 
-`;
+export const TitleWrapper = styled.div``;
 
 export const Title = styled.h2`
   font-weight: 800;
@@ -39,5 +37,5 @@ export const SubTitle = styled.p`
   font-size: 16px;
   line-height: 19px;
   margin: 0;
-  color: #7B7B7B;
+  color: #7b7b7b;
 `;
