@@ -12,7 +12,8 @@
     "plugin:jsx-a11y/recommended",
     "plugin:import/recommended",
     "plugin:prettier/recommended",
-    "plugin:cypress/recommended"
+    "plugin:cypress/recommended",
+    "airbnb"
   ],
   "overrides": [
   ],
