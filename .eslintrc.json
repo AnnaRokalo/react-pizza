@@ -31,7 +31,8 @@
   "rules": {
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": "off",
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "comma-dangle": "off"
   },
   "settings": {
     "import/resolver": {
