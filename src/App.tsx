@@ -1,5 +1,8 @@
+import React from 'react';
 import Header from './components/Header/Header';
 import GlobalStyle from './theme/globalStyles';
+import CardsList from './components/CardsList/CardsList';
+import Title from './components/Title/Title';
 
 function App() {
   return (
@@ -7,7 +10,8 @@ function App() {
       <GlobalStyle />
       <div>
         <Header />
-        <p>Hello! Main part will be here soon. </p>
+        <Title text="All Pizza" />
+        <CardsList />
       </div>
     </div>
   );
