@@ -1,5 +1,5 @@
-import Card from '../Card/Card';
-import { products } from '../../data/products';
+import Card from '@components/Card/Card';
+import { products } from '@data/products';
 
 import Wrapper from './CardsList.styles';
 

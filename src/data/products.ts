@@ -1,6 +1,6 @@
-import { IProduct } from '../models';
+import { Product } from '../models';
 
-export const products: IProduct[] = [
+export const products: Product[] = [
   {
     id: 1,
     name: 'Cheeseburger pizza',

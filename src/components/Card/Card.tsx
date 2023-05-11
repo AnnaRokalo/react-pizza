@@ -1,8 +1,8 @@
 import CardWrapper from './Card.styles';
-import { IProduct } from '../../models';
+import { Product } from '../../models';
 
 interface CardProps {
-  product: IProduct;
+  product: Product;
 }
 
 function Card({ product }: CardProps) {
