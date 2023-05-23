@@ -1,4 +1,4 @@
-import pizzaLogo from '@assets/pizza-img.png';
+import pizzaLogo from 'assets/pizza-img.png';
 import {
   Heading,
   Title,
@@ -6,7 +6,7 @@ import {
   Wrapper,
   SubTitle,
   TitleWrapper,
-} from './Header.styles';
+} from './styles';
 
 export default function Header() {
   return (

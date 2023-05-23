@@ -1,4 +1,4 @@
-import CardWrapper from './Card.styles';
+import { CardWrapper } from './styles';
 import { Product } from '../../models';
 
 interface CardProps {
